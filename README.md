@@ -32,7 +32,7 @@ A custom structure used to define a process, consisting of its execution time (p
 This structure helps in managing the processes efficiently and allows us to track both their execution time and entry order, which is crucial for output accuracy.
 
 ---
-####**Algorithm Breakdown**
+### Algorithm Breakdown
 1.**First Come First Serve (FCFS):**
 
 Processes are executed in the exact order they are entered.
